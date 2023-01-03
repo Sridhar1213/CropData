@@ -1,0 +1,30 @@
+{
+    "status": true,
+    "data": {
+      "title": "CropData Technology",
+      "description": "Largest Blockchain AgEcosystem \nEmpowering Millions of Farmers",
+      "platforms": [
+        {
+          "name": "Dr. Krishi",
+          "iconURL": "https://assessment.sgp1.digitaloceanspaces.com/android/test/images/dr-krishi.jpg",
+          "description": "Dr. Krishi Platform is the bottom-most layer (last-mile infrastructure) with a multi-tier network of laboratories designed on the telemedicine philosophy. It is a workflow-based platform that uses integrated technologies to collect, monitor and analyze information, upwards from the farm level."
+        },
+        {
+          "name": "AgData",
+          "iconURL": "https://assessment.sgp1.digitaloceanspaces.com/android/test/images/agdata.jpg",
+          "description": "CropData Gateway or AgData platform is an ecosystem for data aggregation, management and visualization, providing a seamless interface for third-parties to access and correspond with CropData's customers."
+        },
+        {
+          "name": "Agriota",
+          "iconURL": "https://assessment.sgp1.digitaloceanspaces.com/android/test/images/agriota.jpg",
+          "description": "Agriota E-Marketplace is an advanced agricultural commodities marketplace platform with a range of services for contract, bid and money management, entity management, accounting, billing, reconciliation, analytics, fraud, risk and regulatory compliance management etc."
+        },
+        {
+          "name": "KrishiCo",
+          "iconURL": "https://assessment.sgp1.digitaloceanspaces.com/android/test/images/kirshico.jpg",
+          "description": "KrishiCo platform manages third-party modules for banking, rating, credit, trade finance, insurance, packaging, logistics, warehousing, government relief etc."
+        }
+      ]
+    },
+    "message": "All The Best For Your Machine Test"
+  }
